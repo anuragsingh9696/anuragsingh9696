@@ -12,7 +12,7 @@
 ⚙️ Scalable backend architecture, real-time APIs, cloud deployment, and production-level best practices.
 
 🌱 **Currently Learning:**  
-📌 Advanced React Native, system design fundamentals, and improving DSA skills in **C++**.
+📌 Advanced React Native, system design fundamentals, and improving DSA skills in **Java**.
 
 💬 **Ask Me About:**  
 JAVA, DSA,APIs, or building projects from scratch.
